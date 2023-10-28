@@ -11,3 +11,5 @@ Now we are starting to cover undoing and rewriting.
 
 
 It now includes steps for GitHub
+
+This tutoial focuses mainly on Git and using GitHub as its remote
